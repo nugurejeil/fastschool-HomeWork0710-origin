@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+body{
+	background-image: url(0710Original.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	width: 1366px;
+	height: 2349px;
+}
